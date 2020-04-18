@@ -1,5 +1,7 @@
 # HelloFlask
 
+test
+
 这里是《Flask Web开发实战》（Python Web Development with Flask）的Meta仓库，包含第1-6章、13章的示例程序源码和勘误等信息。访问[本书主页](http://helloflask.com/book)查看本书的资源索引、目录、购买链接等详细信息。
 
 ## 勘误 & FAQ & 可改进实现 & 版本更新记录
